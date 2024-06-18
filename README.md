@@ -10,7 +10,8 @@ Using your knowledge about HTML elements and their attributes, extract informati
 ## Project Structure
 This project is divided into two parts:
 
-1. Part 1: Scrape Titles and Preview Text from Mars News
+Part 1: Scrape Titles and Preview Text from Mars News
+
 -- Using Jupyter Notebook, perform the following:
     * Visit the website https://static.bc-edx.com/data/web/mars_news/index.html
     * Scrape the appropriate elements
@@ -18,7 +19,8 @@ This project is divided into two parts:
         * Use the keys "title" and "preview" to create your dictionaries
     * Export your data as a JSON file
 
-2. Part 1: Scrape and Analyze Mars Weather Data
+Part 2: Scrape and Analyze Mars Weather Data
+
 -- Using Jupyter Notebook, perform the following:
     * Visit the website https://static.bc-edx.com/data/web/mars_facts/temperature.html
     * Scrape the appropriate elements
